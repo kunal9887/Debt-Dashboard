@@ -1,7 +1,7 @@
 # Debt-Dashboard
 
 1. Project Title -
-💳 Debt Utilization Analysis (DUA) Dashboard
+💳 Debt Dashboard
 A comprehensive Power BI dashboard focused on visualizing and analyzing customer debt levels, repayment behavior, risk indicators, and portfolio performance—designed for financial analysts, risk managers, and debt recovery teams.
 
 2. 📌 Short Description / Purpose -
